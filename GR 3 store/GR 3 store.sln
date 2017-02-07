@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2A93B782-F050-80AD-7812-135B825F1CDE}") = "GR 3 store", "Assembly-CSharp.csproj", "{B8B91945-402F-64EC-7A26-F61A880F7522}"
+EndProject
+Project("{2A93B782-F050-80AD-7812-135B825F1CDE}") = "GR 3 store", "Assembly-CSharp-Editor.csproj", "{FB51F025-3B8E-2768-0887-6536382AF3E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B91945-402F-64EC-7A26-F61A880F7522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B91945-402F-64EC-7A26-F61A880F7522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B91945-402F-64EC-7A26-F61A880F7522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B91945-402F-64EC-7A26-F61A880F7522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB51F025-3B8E-2768-0887-6536382AF3E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB51F025-3B8E-2768-0887-6536382AF3E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB51F025-3B8E-2768-0887-6536382AF3E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB51F025-3B8E-2768-0887-6536382AF3E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal

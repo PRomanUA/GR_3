@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GestureRecognizer/Scenes/Demo - Recognize On Click Up - Unlimited.unity
+  isLoaded: 1
+  isActive: 1
